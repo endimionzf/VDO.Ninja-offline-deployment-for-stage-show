@@ -59,6 +59,9 @@ Since we are using "fake" (self-signed) security certificates, OBS will block th
 8. Test, test, test.
 
 
+
+
+
 ## Guide + code to run VDO.Ninja without Internet on a local network
 
 This guide was tested on a Raspberry Pi with a clean RPI OS installed ([the image of which is provided if desired](https://github.com/steveseguin/offline_deployment#rpi-provided-image-option))
